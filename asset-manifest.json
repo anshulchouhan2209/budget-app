@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/BudgetApp/static/css/main.5f5111f3.chunk.css",
+    "main.js": "/BudgetApp/static/js/main.22632102.chunk.js",
+    "main.js.map": "/BudgetApp/static/js/main.22632102.chunk.js.map",
+    "runtime-main.js": "/BudgetApp/static/js/runtime-main.0dee10e1.js",
+    "runtime-main.js.map": "/BudgetApp/static/js/runtime-main.0dee10e1.js.map",
+    "static/js/2.e201d76e.chunk.js": "/BudgetApp/static/js/2.e201d76e.chunk.js",
+    "static/js/2.e201d76e.chunk.js.map": "/BudgetApp/static/js/2.e201d76e.chunk.js.map",
+    "index.html": "/BudgetApp/index.html",
+    "static/css/main.5f5111f3.chunk.css.map": "/BudgetApp/static/css/main.5f5111f3.chunk.css.map",
+    "static/js/2.e201d76e.chunk.js.LICENSE.txt": "/BudgetApp/static/js/2.e201d76e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dee10e1.js",
+    "static/js/2.e201d76e.chunk.js",
+    "static/css/main.5f5111f3.chunk.css",
+    "static/js/main.22632102.chunk.js"
+  ]
+}
